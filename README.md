@@ -1,4 +1,6 @@
-Lanugages: 
+#Bennett Matuszewski
+
+Languages: 
 - C#
 - Java
 - Python
