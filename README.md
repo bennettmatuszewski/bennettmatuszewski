@@ -7,6 +7,8 @@ Languages:
 - HTML
 - CSS
 - Typescript
+- R
+- C
 
 Tools:
 - Unity
