@@ -44,6 +44,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
+   <img width="800" src="https://ghchart.rshah.org/BenBonk" alt="Activity Graph" />
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=benbonk&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 <br/><br/>
