@@ -13,6 +13,8 @@
  🎮 In 2025, I released <a href="https://store.steampowered.com/app/1552500/Slimekeep/">Slimekeep</a>, an indie roguelike game that took me five years to develop using Unity and C#
 
  🎥 I run the  <a href="https://www.youtube.com/@BenBonk">BenBonk</a> YouTube Channel, a game development focused channel where I share my journey as a developer 
+
+ 📚 I am currently a computer science and business analytics double major at **William & Mary**
  
  🌱 I’m currently looking to learn more about **Web Development and IoT**
 
@@ -22,10 +24,10 @@
   <a href="mailto:panzgfx@@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/bennett-matuszewski-6834b8283/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://benbonk.itch.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
