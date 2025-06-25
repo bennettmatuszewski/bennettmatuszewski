@@ -42,6 +42,7 @@
 
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
+Most of my activity and contributions can be found on my private GitHub,  <a href="https://github.com/benbonk">BenBonk</a>a
 <br>
 <div align="center">
    <img width="800" src="https://ghchart.rshah.org/BenBonk" alt="Activity Graph" />
