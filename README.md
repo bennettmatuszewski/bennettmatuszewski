@@ -44,12 +44,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=benbonk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/><br/>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=benbonk&theme=react&border_radius=10" alt="GitHub Streak" />
-  <br/><br/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbonk&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-  <br/><br/>
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=benbonk&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 <br/><br/>
