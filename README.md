@@ -45,9 +45,8 @@
 
 <br>
 <div align="center">
-Most of my activity and contributions can be found on my private GitHub,  <a href="https://github.com/benbonk">BenBonk</a>
-    
-   <img width="800" src="https://ghchart.rshah.org/BenBonk" alt="Activity Graph" />
+Most of my activity and contributions can be found on my private GitHub,  <a href="https://github.com/benbonk">BenBonk</a> <br></div>br>
+   <img width="800" src="https://ghchart.rshah.org/BenBonk" alt="Activity Graph" /> </div>br>
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=benbonk&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 <br/><br/>
