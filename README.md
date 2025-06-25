@@ -45,7 +45,7 @@
 
 <br>
 <div align="center">
-  <strong>Most of my activity and contributions can be found on my private GitHub, <a href="https://github.com/benbonk">BenBonk</a></strong>
+  <strong>Most of my activity and contributions can be found on my private GitHub, <a href="https://github.com/benbonk" target="_blank">BenBonk</a></strong>
   
   <br/><br/>
   
