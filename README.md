@@ -49,7 +49,7 @@
   <img width=390 src="https://activity-graph.herokuapp.com/graph?username=BenBonk&theme=github" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=benbonk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
-
+![BenBonk's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BenBonk&theme=github-compact)
 <br/><br/>
 
 <hr/>
