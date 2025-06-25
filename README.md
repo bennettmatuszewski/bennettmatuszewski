@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🎮 In 2025, I released <a href="https://store.steampowered.com/app/1552500/Slimekeep/">Slimekeep</a>, an indie roguelike game that took me five years to develop using Unity and C#
+ 🎮 In 2025, I released **<a href="https://store.steampowered.com/app/1552500/Slimekeep/">Slimekeep</a>**, an indie roguelike game that took me five years to develop using Unity and C#
 
- 🎥 I run the  <a href="https://www.youtube.com/@BenBonk">BenBonk</a> YouTube Channel, a game development focused channel where I share my journey as a developer 
+ 🎥 I run the **<a href="https://www.youtube.com/@BenBonk">BenBonk</a>** YouTube Channel, a game development focused channel where I share my journey as a developer 
 
  🐟 I have held previous IT and software engineering internships at **<a href="https://www.kerecis.com/">Kerecis</a>**
 
