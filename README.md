@@ -16,7 +16,7 @@
 
  📚 I am currently a computer science and business analytics double major at **William & Mary**
  
- 🌱 I’m currently looking to learn more about **Web Development, IoT and random fun APIs**
+ 🌱 I’m currently learning more about **Web Development, Business Intelligence, and IoT**
 
  </div>
  
