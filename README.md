@@ -12,7 +12,7 @@
 
  🎥 I run the **<a href="https://www.youtube.com/@BenBonk">BenBonk</a>** YouTube Channel, a game development focused channel where I share my journey as a developer 
 
- 🐟 I have held previous IT and software engineering internships at **<a href="https://www.kerecis.com/">Kerecis</a>**
+ 🐟 I have held previous IT and software engineering internships at **<a href="https://www.kerecis.com/">Kerecis</a>** and **<a href="https://www.wealth.com/">Wealth.com</a>**
 
  📚 I am currently a computer science and business analytics double major at **William & Mary**
  
