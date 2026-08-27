@@ -53,7 +53,6 @@
   
   <br/><br/>
   
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=benbonk&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 <br/><br/>
 
